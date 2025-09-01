@@ -1,0 +1,16 @@
+# Node modules
+frontend/node_modules/
+smart-contracts/node_modules/
+
+# Build / cache
+frontend/build/
+frontend/.cache/
+smart-contracts/cache/
+smart-contracts/artifacts/
+
+# Environment files
+frontend/.env
+smart-contracts/.env
+
+# Logs
+*.log
